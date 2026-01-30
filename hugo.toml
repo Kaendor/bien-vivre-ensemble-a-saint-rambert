@@ -97,11 +97,6 @@ enableEmoji = true
         url = "mailto:mail@janedoe.com"
         icon = "fa fa-envelope"
 
-    [[params.contacts]]
-        label = "Facebook"
-        value = "github.com/zjedi/hugo-scroll"
-        url = "https://github.com/zjedi/hugo-scroll"
-        icon = "fa-brands fa-github"
 
     # Add additional contacts here!
     # [[params.contacts]]

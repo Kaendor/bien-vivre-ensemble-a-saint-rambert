@@ -18,4 +18,4 @@ Des habitants qui, pour la plupart, vivent ici depuis des années et voir même 
 Notre équipe inédite renouvellera entièrement le conseil municipal actuel, avec à sa tête des membres libérés de leurs activités professionnelles. Ainsi, ils pourront pleinement se consacrer à votre écoute et à la gestion complexe de la commune. 
 
 Depuis juin 2025 nous sommes à votre écoute et continuons de venir à votre rencontre pour construire le Saint-Rambert de demain.
-Nous allons poursuivre les projets qui fonctionnent, proposer des projets concrets, réaliste et humaniste. Et refaire de Saint-Rambert un lieu accueillant et remarquable où il fait bon vivre ensemble!"
+Nous allons poursuivre les projets qui fonctionnent, proposer des projets concrets, réaliste et humaniste. Et refaire de Saint-Rambert un lieu accueillant et remarquable où il fait bon vivre ensemble!
