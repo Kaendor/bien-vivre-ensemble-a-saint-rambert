@@ -1,7 +1,7 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+title: "Notre programme"
+header_menu_title: "Programme"
+navigation_menu_title: "Notre Programme"
 weight: 2
 header_menu: true
 ---
