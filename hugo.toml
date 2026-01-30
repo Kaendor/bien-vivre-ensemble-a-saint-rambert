@@ -85,11 +85,11 @@ enableEmoji = true
     [params.meta]
         keywords = "saint rambert, bien, vivre, ensemble, bugey, election, liste, municipale"
 
-    [[params.contacts]]
-        label = "phone"
-        value = "+49 1111 555555"
-        url = "tel:+49 1111 555555"
-        icon = "fa fa-phone"
+    # [[params.contacts]]
+    #     label = "phone"
+    #     value = "+49 1111 555555"
+    #     url = "tel:+49 1111 555555"
+    #     icon = "fa fa-phone"
 
     [[params.contacts]]
         label = "email"
