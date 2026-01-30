@@ -93,8 +93,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        value = "bveasreb@proton.me"
+        url = "mailto:bveasreb@proton.me"
         icon = "fa fa-envelope"
 
 
